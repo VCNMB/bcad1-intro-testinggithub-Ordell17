@@ -27,7 +27,7 @@ public class PrjClasses {
     }
     
     public static void print()
-    {
+    
         String strDisplay = "The updated student average results are:" + "\n" + 
                              "STUDENT: " + s.getName() + "\n" + "COURSE: " + 
                               s.getCourse() + s.getCourse() + "\n" + "UPDATED AVERAGE: "
